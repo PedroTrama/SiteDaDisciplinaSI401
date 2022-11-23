@@ -1,0 +1,80 @@
+@import "../Reset/reset.css";
+
+body{
+  background-color:#FFF5E4;
+  font-family:"Comfortaa", sans-serif;
+}
+
+header{
+  font-size: 64px;
+  color:#FF9494;
+  margin-left: 17%;
+
+}
+
+.screen{
+  background-color:#FFD1D1;
+  border-radius: 65px;
+  width: 72%;
+  height: 72%;
+  margin-left: 13%;
+}
+
+.tools1{
+  padding-left: 5%;
+  padding-right: 1%;
+}
+.tools1 button{
+  background-color: #FF9494;
+  color: #FFF5E4;
+  border: #FF9494;
+  font-size: 48px;
+  border-radius: 65px;
+  width: 30%;
+  height: 10%;
+  margin-top: 5%;
+  margin-bottom: 1%;
+  margin-right: 1%;
+}
+
+.tools2{
+  padding-left: 5%;
+  padding-right: 1%;
+}
+
+.tools2 button{
+  background-color: #FF9494;
+  color: #FFF5E4;
+  border: #FF9494;
+  font-size: 48px;
+  border-radius: 65px;
+  width: 93%;
+  height: 10%;
+  margin-top: 5%;
+  margin-bottom: 1%;
+  margin-right: 1%;
+}
+
+.tools3{
+  padding-left: 59%;
+  padding-right: 1%;
+}
+
+.tools3 button{
+  background-color: #FF9494;
+  color: #FFF5E4;
+  border: #FF9494;
+  font-size: 48px;
+  border-radius: 65px;
+  width: 85%;
+  height: 10%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  margin-right: 1%;
+}
+
+.tools1 a{
+  color: #FFF5E4;
+  text-decoration-line: none;
+  ;
+}

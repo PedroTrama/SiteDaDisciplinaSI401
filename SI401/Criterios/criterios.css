@@ -1,0 +1,33 @@
+@import "../Reset/reset.css";
+
+i{
+  color:#FF9494;
+  margin-left:90%;
+}
+
+body{
+  background-color:#FFF5E4;
+  font-family:"Comfortaa", sans-serif;
+}
+
+header{
+  font-size: 64px;
+  color:#FF9494;
+  margin-left: 17%;
+}
+
+.screen{
+  background-color:#FFD1D1;
+  border-radius: 65px;
+  width: 72%;
+  height: 72%;
+  margin-left: 13%;
+}
+
+.text p{
+  color: #FF9494;
+  font-size: 24px;
+  text-align: justify;
+  margin-left:3%;
+  margin-right:3%;
+}
